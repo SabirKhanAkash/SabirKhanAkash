@@ -16,7 +16,7 @@
 - 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1434KglHfWgPZFzYF2Aiudvmxu8SvjN_f/view?usp=sharing)
 - ⚡ &nbsp; Fun fact: I love to play video games and watch movies.
 
-<br><br><br>
+<br><br><br><br>
 ---
 ### Connect with me:
 
@@ -35,7 +35,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/_.distortion_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_.distortion_#gh-dark-mode-only)
 
-<br><br><br>
+<br>
 ---
 ### Languages and Technologies:
 
