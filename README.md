@@ -74,7 +74,6 @@
 <a href="https://opencv.org/" target="_blank"><img align="left" alt="OpenCV" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"/></a>
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img align="left" alt="PyCharm" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
 
 <br><br>
 
