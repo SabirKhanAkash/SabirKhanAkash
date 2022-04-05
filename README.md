@@ -7,13 +7,13 @@
 
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
 
 - 🔭 &nbsp; I’m currently working on **Medical Image Processing**
 - 🌱 &nbsp; I’m currently learning JavaScript.
 - 👯 &nbsp; I’m looking to collaborate with other web developers.
 - 🥅 &nbsp; 2022 Goals: Learn more about web and new technologies.
-- 📝 &nbsp; Checkout my [cv](https://drive.google.com/file/d/1434KglHfWgPZFzYF2Aiudvmxu8SvjN_f/view?usp=sharing)
+- 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1434KglHfWgPZFzYF2Aiudvmxu8SvjN_f/view?usp=sharing)
 - ⚡ &nbsp; Fun fact: I love to play video games and watch movies.
 
 
@@ -49,10 +49,10 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <!-- [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist] -->
 <img align="left" alt="Gatsby" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg"/>
-<img align="left" alt="GraphQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+<a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></a>
 <!-- [<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist] -->
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
-<img align="left" alt="MySQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 <img align="left" alt="GitHub" height ="42px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
 <img align="left" alt="GitHub" height ="42px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
 <img align="left" alt="Terminal" height ="42px" src="./img/terminal-light.svg" />
@@ -67,5 +67,5 @@
 
 ---
 
-<img align="left" alt="Sabir Khan Akash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Sabir Khan Akash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&show_icons=true&hide_border=false&theme=vue-dark" />
 
