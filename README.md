@@ -1,13 +1,14 @@
 ## Hey there👋, I'm Sabir Khan Akash👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2LLysXlNymRZdFb0fcxl4g?logo=youtube&logoColor=red&style=for-the-badge)][https://www.youtube.com/channel/UC2LLysXlNymRZdFb0fcxl4g]
 [![Website](https://img.shields.io/website?label=akash-codes.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://akash-codes.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SabirKhanAkash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SabirKhanAkash)
 
 <br>
+
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
 
 - 🔭 &nbsp; I’m currently working on **Medical Image Processing**
 - 🌱 &nbsp; I’m currently learning JavaScript.
@@ -17,6 +18,7 @@
 - ⚡ &nbsp; Fun fact: I love to play video games and watch movies.
 
 <br><br><br><br>
+
 ---
 ### Connect with me:
 
@@ -35,8 +37,10 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/_.distortion_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_.distortion_#gh-dark-mode-only)
 
-<br><br>
+<br>
+
 ---
+
 ### Languages and Technologies:
 
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
@@ -56,9 +60,10 @@
 <!-- [<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist] -->
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+<br>
 <img align="left" alt="GitHub" height ="42px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
-<img align="left" alt="GitHub" height ="42px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
-<img align="left" alt="Terminal" height ="42px" src="./img/terminal-light.svg" />
+<!-- <img align="left" alt="GitHub" height ="42px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/> -->
+<!-- <img align="left" alt="Terminal" height ="42px" src="./img/terminal-light.svg" /> -->
 <img align="left" alt="Terminal" height ="42px" src="./img/terminal-dark.svg" />
 
 <br>
@@ -66,7 +71,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirKhanAkash&layout=compact)](https://github.com/SabirKhanAkash/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirKhanAkash&layout=compact&theme=vue-dark&langs_count=10)](https://github.com/SabirKhanAkash/github-readme-stats)
 
 ---
 
