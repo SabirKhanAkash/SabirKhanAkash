@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=akash-codes.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://akash-codes.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SabirKhanAkash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SabirKhanAkash)
 
-<br><br><br>
+<br>
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
@@ -35,7 +35,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/_.distortion_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_.distortion_#gh-dark-mode-only)
 
-<br>
+<br><br>
 ---
 ### Languages and Technologies:
 
