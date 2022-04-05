@@ -1,6 +1,6 @@
 ## Hey there👋, I'm Sabir Khan Akash👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2LLysXlNymRZdFb0fcxl4g?logo=youtube&logoColor=red&style=for-the-badge)][https://www.youtube.com/channel/UC2LLysXlNymRZdFb0fcxl4g]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2LLysXlNymRZdFb0fcxl4g?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=akash-codes.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://akash-codes.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SabirKhanAkash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SabirKhanAkash)
 
@@ -16,8 +16,6 @@
 - 🥅 &nbsp; 2022 Goals: Learn more about web and new technologies.
 - 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1434KglHfWgPZFzYF2Aiudvmxu8SvjN_f/view?usp=sharing)
 - ⚡ &nbsp; Fun fact: I love to play video games and watch movies.
-
-<br><br><br><br>
 
 ---
 ### Connect with me:
@@ -61,10 +59,10 @@
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 <br>
-<img align="left" alt="GitHub" height ="42px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
+<img align="left" alt="GitHub" style="padding-top:5px;" height ="42px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
 <!-- <img align="left" alt="GitHub" height ="42px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/> -->
 <!-- <img align="left" alt="Terminal" height ="42px" src="./img/terminal-light.svg" /> -->
-<img align="left" alt="Terminal" height ="42px" src="./img/terminal-dark.svg" />
+<img align="left" alt="Terminal" style="padding-top:5px;" height ="42px" src="./img/terminal-dark.svg" />
 
 <br>
 <br><br>
