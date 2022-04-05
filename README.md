@@ -1,10 +1,10 @@
-## Hey there👋, I'm Sabir Khan Akash - aka [BLADE][youtube] 👋 
+## Hey there👋, I'm Sabir Khan Akash👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=akash-codes.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://akash-codes.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SabirKhanAkash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SabirKhanAkash)
 
-
+<br><br><br>
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
@@ -16,7 +16,8 @@
 - 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1434KglHfWgPZFzYF2Aiudvmxu8SvjN_f/view?usp=sharing)
 - ⚡ &nbsp; Fun fact: I love to play video games and watch movies.
 
-
+<br><br><br>
+---
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://akash-codes.vercel.app#gh-light-mode-only)
@@ -34,6 +35,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/_.distortion_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_.distortion_#gh-dark-mode-only)
 
+<br><br><br>
+---
 ### Languages and Technologies:
 
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
@@ -58,8 +61,8 @@
 <img align="left" alt="Terminal" height ="42px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" height ="42px" src="./img/terminal-dark.svg" />
 
-<br />
-<br />
+<br>
+<br><br>
 
 ---
 
