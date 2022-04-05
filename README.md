@@ -44,6 +44,8 @@
 
 ### Languages and Technologies:
 
+<a href="https://www.w3schools.com/c/index.php/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
+<a href="https://www.w3schools.com/cpp/default.asp" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
 <a href="https://html.com/" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
 <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
@@ -66,6 +68,13 @@
 <!-- <img align="left" alt="GitHub" height ="42px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/> -->
 <!-- <img align="left" alt="Terminal" height ="42px" src="./img/terminal-light.svg" /> -->
 <img align="left" alt="Terminal" style="padding-top:5px;" height ="42px" src="./img/terminal-dark.svg" />
+<a href="https://latex-tutorial.com/" target="_blank"><img align="left" alt="LaTeX" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"></a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
+<a href="https://numpy.org/" target="_blank"><img align="left" alt="NumPy" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/></a>
+<a href="https://opencv.org/" target="_blank"><img align="left" alt="OpenCV" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"/></a>
+<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img align="left" alt="PyCharm" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
 
 <br><br>
 
