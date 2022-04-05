@@ -1,10 +1,12 @@
 ## Hey there👋, I'm Sabir Khan Akash👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2LLysXlNymRZdFb0fcxl4g?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2LLysXlNymRZdFb0fcxl4g?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC2LLysXlNymRZdFb0fcxl4g)
 [![Website](https://img.shields.io/website?label=akash-codes.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://akash-codes.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SabirKhanAkash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SabirKhanAkash)
 
 <br>
+
+---
 
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
@@ -15,9 +17,10 @@
 - 👯 &nbsp; I’m looking to collaborate with other web developers.
 - 🥅 &nbsp; 2022 Goals: Learn more about web and new technologies.
 - 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1434KglHfWgPZFzYF2Aiudvmxu8SvjN_f/view?usp=sharing)
-- ⚡ &nbsp; Fun fact: I love to play video games and watch movies.
+- ⚡ &nbsp; Fun fact: I love to play [video games](https://steamcommunity.com/id/blade_0_0/) and watch movies.
 
 ---
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://akash-codes.vercel.app#gh-light-mode-only)
@@ -64,7 +67,6 @@
 <!-- <img align="left" alt="Terminal" height ="42px" src="./img/terminal-light.svg" /> -->
 <img align="left" alt="Terminal" style="padding-top:5px;" height ="42px" src="./img/terminal-dark.svg" />
 
-<br>
 <br><br>
 
 ---
