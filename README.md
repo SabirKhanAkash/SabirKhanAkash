@@ -83,5 +83,5 @@
 
 ---
 
-<img align="left" alt="Sabir Khan Akash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&show_icons=true&hide_border=false&theme=vue-dark" />
+[![Sabir Khan Akash's github stats](https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&theme=vue-dark)](https://github.com/SabirKhanAkash)
 
