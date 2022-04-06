@@ -9,7 +9,7 @@
 
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
 - 🎓 &nbsp; I'm currently pursuing B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">RUET</a>.
 - 🔭 &nbsp; I’m currently working on **Medical Image Processing**
