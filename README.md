@@ -74,10 +74,9 @@
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img align="left" alt="PyCharm" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/></a>
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirKhanAkash&layout=compact&theme=vue-dark&langs_count=10)](https://github.com/SabirKhanAkash/github-readme-stats)
-
----
 
 [![Sabir Khan Akash's github stats](https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&theme=vue-dark)](https://github.com/SabirKhanAkash)
 
