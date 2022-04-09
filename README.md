@@ -81,6 +81,6 @@
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirKhanAkash&layout=compact&theme=vue-dark&langs_count=10&card_width=275&border_radius=20%)](https://github.com/SabirKhanAkash/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; [![Sabir Khan Akash's github stats](https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&theme=vue-dark&border_radius=20%)](https://github.com/SabirKhanAkash)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirKhanAkash&layout=compact&theme=vue-dark&langs_count=10&card_width=265&border_radius=20%)](https://github.com/SabirKhanAkash/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; [![Sabir Khan Akash's github stats](https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&theme=vue-dark&border_radius=20%)](https://github.com/SabirKhanAkash)
 
 </div>
