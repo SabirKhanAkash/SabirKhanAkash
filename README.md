@@ -9,8 +9,9 @@
 
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
-- 🎓 &nbsp; I'm currently pursuing B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px" style="padding-top: 5px;"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
+
+- 🎓 &nbsp; I'm currently pursuing B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">RUET</a>.
 - 🔭 &nbsp; I’m currently working on **Medical Image Processing**
 - 🌱 &nbsp; I’m currently learning JavaScript.
 - 👯 &nbsp; I’m looking to collaborate with other web developers.
@@ -37,7 +38,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/_.distortion_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_.distortion_#gh-dark-mode-only)
 
-<br><br>
+<br>
 
 ---
 
@@ -75,7 +76,11 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img align="left" alt="PyCharm" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/></a>
 
 <br><br>
+
 ---
+
+<center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirKhanAkash&layout=compact&theme=vue-dark&langs_count=10&card_width=275&border_radius=20%)](https://github.com/SabirKhanAkash/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; [![Sabir Khan Akash's github stats](https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&theme=vue-dark&border_radius=20%)](https://github.com/SabirKhanAkash)
 
+</center>
