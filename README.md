@@ -3,14 +3,14 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2LLysXlNymRZdFb0fcxl4g?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC2LLysXlNymRZdFb0fcxl4g)
 [![Website](https://img.shields.io/website?label=akash-codes.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://akash-codes.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SabirKhanAkash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SabirKhanAkash)
-<img align='right' src="https://komarev.com/ghpvc/?username=SabirKhanAkash" alt="SabirKhanAkash" />
+<img align='right' src="https://komarev.com/ghpvc/?username=SabirKhanAkash" alt="SabirKhanAkash" style="padding-top: 5px;" />
 
 ---
 
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
-
+- 🎓 &nbsp; I'm currently pursuing B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px" style="padding-top: 5px;"/>
 - 🔭 &nbsp; I’m currently working on **Medical Image Processing**
 - 🌱 &nbsp; I’m currently learning JavaScript.
 - 👯 &nbsp; I’m looking to collaborate with other web developers.
@@ -37,7 +37,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/_.distortion_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_.distortion_#gh-dark-mode-only)
 
-<br>
+<br><br>
 
 ---
 
@@ -77,7 +77,5 @@
 <br><br>
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirKhanAkash&layout=compact&theme=vue-dark&langs_count=10)](https://github.com/SabirKhanAkash/github-readme-stats)
-
-[![Sabir Khan Akash's github stats](https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&theme=vue-dark)](https://github.com/SabirKhanAkash)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirKhanAkash&layout=compact&theme=vue-dark&langs_count=10&card_width=375&border_radius=20%)](https://github.com/SabirKhanAkash/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; [![Sabir Khan Akash's github stats](https://github-readme-stats.vercel.app/api?username=SabirKhanAkash&theme=vue-dark&border_radius=20%)](https://github.com/SabirKhanAkash)
 
