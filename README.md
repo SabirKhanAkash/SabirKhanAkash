@@ -16,7 +16,7 @@
 - 🌱 &nbsp; I’m currently learning JavaScript.
 - 👯 &nbsp; I’m looking to collaborate with other web developers.
 - 🥅 &nbsp; 2022 Goals: Learn more about web and new technologies.
-- 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1XYBVhVvmYl4kMKX0Jm2T_gwB8uJjh6C6/view?usp=sharing)
+- 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1111iNmO4V4oZmPZEitWGDbCvU4PCWwUo/view?usp=sharing)
 - ⚡ &nbsp; Fun fact: I love to play [video games](https://steamcommunity.com/id/blade_0_0/) and watch movies.
 
 ---
