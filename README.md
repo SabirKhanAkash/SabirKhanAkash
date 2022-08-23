@@ -76,6 +76,7 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img align="left" alt="PyCharm" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/></a>
 
 <br>
+<br>
 
 ---
 
