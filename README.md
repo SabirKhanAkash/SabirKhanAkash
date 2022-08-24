@@ -38,8 +38,6 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/_.distortion_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_.distortion_#gh-dark-mode-only)
 
-<br>
-
 ---
 
 ### Languages and Technologies:
@@ -77,17 +75,17 @@
 
 <br>
 <br>
+<br>
 
 ---
 
 <div>
 
-<br>
-
 ### GitHub Stats:
 
 <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=SabirKhanAkash&theme=react-dark)](https://github.com/SabirKhanAkash/github-readme-activity-graph)
+
 </div>
 
 <div>
