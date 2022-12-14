@@ -11,10 +11,11 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
-- 🎓 &nbsp; I'm currently pursuing B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">RUET</a>.
-- 🔭 &nbsp; I’m currently working on **Medical Image Processing**
-- 🌱 &nbsp; I’m currently learning JavaScript.
-- 👯 &nbsp; I’m looking to collaborate with other web developers.
+- 💼 &nbsp; I’m currently working as a Software Engineer Trainee at Walton Digi-Tech Industries Limited.
+- 🎓 &nbsp; I've completed my B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">RUET</a> in October, 2022.
+- 🔭 &nbsp; I’m currently working on **Android App Development**
+- 🌱 &nbsp; I’m currently learning Java, JavaScript.
+- 👯 &nbsp; I’m looking to collaborate with other android and web developers.
 - 🥅 &nbsp; 2022 Goals: Learn more about web and new technologies.
 - 📝 &nbsp; Checkout my [CV](https://drive.google.com/drive/folders/1DNchDEWl-lqIFdQmon17Xpy3iWaM4LKb?usp=sharing)
 - ⚡ &nbsp; Fun fact: I love to play [video games](https://steamcommunity.com/id/blade_0_0/) and watch movies.
