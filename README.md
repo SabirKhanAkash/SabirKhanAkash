@@ -9,7 +9,7 @@
 
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
-- 💼 &nbsp; Currently working as a Software Engineer Trainee at Walton Digi-Tech Industries Limited.
+- 💼 &nbsp; Currently working as a Software Engineer at Walton Digi-Tech Industries Limited.
 - 🎓 &nbsp; Completed my B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">RUET</a> in October, 2022.
 - 🔭 &nbsp; Currently working on **Android App Development**
 - 🌱 &nbsp; Currently learning Java, JavaScript.
