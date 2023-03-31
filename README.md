@@ -85,7 +85,7 @@
 ### GitHub Stats:
 
 <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=SabirKhanAkash&theme=react-dark)](https://github.com/SabirKhanAkash/github-readme-activity-graph)
+<img width=525 src="https://github-readme-activity-graph.cyclic.app/graph?username=SabirKhanAkash&theme=elegant&bg_color=0D1117" />
 
 </div>
 
