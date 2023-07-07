@@ -27,8 +27,8 @@
 [![website](./img/globe-light.svg)](https://akash-codes.vercel.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://akash-codes.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC2LLysXlNymRZdFb0fcxl4g#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC2LLysXlNymRZdFb0fcxl4g#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCo0DFznO4u5FVo6oN8YuOGg#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCo0DFznO4u5FVo6oN8YuOGg#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/SabirKhanAkash_#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/SabirKhanAkash_#gh-dark-mode-only)
