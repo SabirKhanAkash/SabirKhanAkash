@@ -12,7 +12,7 @@
 - 💼 &nbsp; Currently working as a Software Engineer at Walton Digi-Tech Industries Limited.
 - 🎓 &nbsp; Completed my B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">RUET</a> in October, 2022.
 - 🔭 &nbsp; Currently working on **Android App Development**
-- 🌱 &nbsp; Currently learning Java, JavaScript.
+- 🌱 &nbsp; Currently learning Dart, Flutter, NodeJs, Kotlin.
 - 👯 &nbsp; Looking to collaborate with other android and web developers.
 - 🥅 &nbsp; 2023 Goals: Learn more about web and new technologies.
 - 📝 &nbsp; Checkout my [CV](https://drive.google.com/drive/folders/1DNchDEWl-lqIFdQmon17Xpy3iWaM4LKb?usp=sharing)
