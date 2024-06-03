@@ -9,12 +9,12 @@
 
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
-- 💼 &nbsp; Currently working as a Software Engineer at Walton Digi-Tech Industries Limited.
+- 💼 &nbsp; Currently working as a Software Engineer at Walton Hi-Tech Industries PLC.
 - 🎓 &nbsp; Completed my B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">RUET</a> in October, 2022.
-- 🔭 &nbsp; Currently working on **Android App Development**
-- 🌱 &nbsp; Currently learning Dart, Flutter, NodeJs, Kotlin.
-- 👯 &nbsp; Looking to collaborate with other android and web developers.
-- 🥅 &nbsp; 2023 Goals: Learn more about web and new technologies.
+- 🔭 &nbsp; Currently working on **Mobile App Development** & **Backend API Development**
+- 🌱 &nbsp; Currently learning Dart, Flutter, NodeJs, Kotlin, KMP, WebSocket.
+- 👯 &nbsp; Looking to collaborate with other android, flutter and backend developers.
+- 🥅 &nbsp; 2024 Goals: Learn more about web and mobile technologies.
 - 📝 &nbsp; Checkout my [CV](https://drive.google.com/drive/folders/1DNchDEWl-lqIFdQmon17Xpy3iWaM4LKb?usp=sharing)
 - ⚡ &nbsp; Fun fact: I love to play [video games](https://steamcommunity.com/id/blade_0_0/) , read [fiction books (mostly thriller, mystery)](https://www.goodreads.com/user/show/72741947-sabir-khan-akash) and watch [movies](https://www.imdb.com/user/ur91517040/).
 
