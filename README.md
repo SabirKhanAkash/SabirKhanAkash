@@ -85,7 +85,7 @@
 ### GitHub Stats:
 
 <!-- ACTIVITY GRAPH TRACKER -->
-<img width=725 src="https://github-readme-activity-graph.cyclic.app/graph?username=SabirKhanAkash&theme=github-compact" />
+[![SabirKhanAkash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SabirKhanAkash&theme=github-compact)](https://github.com/SabirKhanAkash/github-readme-activity-graph)
 
 </div>
 
