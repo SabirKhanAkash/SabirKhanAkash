@@ -9,7 +9,7 @@
 
 ## I'm a Learner, Programmer, Software Developer, and Gamer!!
 
-- 💼 &nbsp; Currently working as a Software Engineer at Walton Hi-Tech Industries PLC.
+- 💼 &nbsp; Currently working as a Software Engineer at TechnoNext Software Limited-TSL (a US Bangla Group Concern)
 - 🎓 &nbsp; Completed my B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">RUET</a> in October, 2022.
 - 🔭 &nbsp; Currently working on **Mobile App Development** & **Backend API Development**
 - 🌱 &nbsp; Currently learning Dart, Flutter, NodeJs, Kotlin, KMP, WebSocket.
